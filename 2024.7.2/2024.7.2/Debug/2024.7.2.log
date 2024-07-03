@@ -1,0 +1,3 @@
+﻿  源.c
+D:\VS  biancheng\my__first\2024.7.2\2024.7.2\源.c(70,6): warning C4013: “gets”未定义；假设外部返回 int
+  2024.7.2.vcxproj -> D:\VS  biancheng\my__first\2024.7.2\Debug\2024.7.2.exe
